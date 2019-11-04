@@ -2,6 +2,14 @@
 
 Insert information about project
 
+Important notes regarding structure of project
+
+Folder Input Contains a file called US where states are located with coordinates *geoposition, also the initial csv with shark attacks
+
+Folder Output Countains final result after treating the shark attacks database 
+
+Folder Other . Contain files coming from GIS https://www.arcgis.com/home/item.html?id=f7f805eb65eb4ab787a0a3e1116ca7e5
+
 Pandas-Project
 
 Looking for SHARKS!
@@ -33,4 +41,4 @@ Once the data base was ready to analyse, the count function was utilized to asse
 D.Going beyond validating the initial hypothesis 
 After the hypothesis was tested and declined, I made a zoom on USA to assess the amount of attacks per state. I also used the library geopandas and downloaded from gis the file corresponding to the US to be able to locate the attacks and states in a map
 
-https://www.arcgis.com/home/item.html?id=f7f805eb65eb4ab787a0a3e1116ca7e5
+
